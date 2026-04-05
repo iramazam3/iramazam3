@@ -1,8 +1,11 @@
 # Hi, I'm Iram 👋
 
-🎓 Graduate Student in Computer Information Technology 
-📍 Purdue University 
+🎓 Graduate Student in Computer Information Technology
+
+📍 Purdue University
+
 🧠 Focus: AI in Healthcare | LLMs | Biomedical NLP
+
 💻 Background: Software Engineering (Frontend – React, React Native)
 
 ---
