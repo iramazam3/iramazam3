@@ -14,9 +14,9 @@ Currently working as a Teaching Assistant while conducting research on large lan
 
 ---
 
-## 📊 Research
+## 📊 Research Projects
 
-### 📄 A Hybrid LLM And Embedding-Based Approach For Biomedical Concept Normaliation In Clinical And Social Media Data
+### 📄 A Hybrid LLM and Embedding-Based Approach for Biomedical Concept Normaliation in Clinical and Social Media Data
 
 * Converts noisy health text into standardized medical concepts
 * Uses LLMs for linguistic normalization
@@ -24,6 +24,15 @@ Currently working as a Teaching Assistant while conducting research on large lan
 * Works on both clinical (EHR) and social media (Twitter) data
 
 👉 https://github.com/iramazam3/biomedical-concept-normalization
+
+### 📄 Batch Classification of Text Data for Personal Health Experience Identification with LLM Batch Prompting
+
+* Presents a scalable approach for identifying Personal Health Experience (PHE) tweets using batch prompting with LLMs
+* Classifies multiple text inputs in a single prompt
+* Improves efficiency while maintaining strong classification performance
+* Works on both social media (Twitter) data
+
+👉 https://github.com/iramazam3/llm-batch-classification
 
 ---
 
@@ -35,13 +44,6 @@ Currently working as a Teaching Assistant while conducting research on large lan
 * Pandas, NumPy, Matplotlib
 * Java, C, C++, SQL
 * React, React Native, HTML, CSS
-
----
-
-## 💡 Projects
-
-* Batch Inference Pipeline for Health Text Classification Using LLMs
-* Symptom Extraction and Normalization from EHR and Social Media
 
 ---
 
