@@ -2,15 +2,16 @@
 
 🎓 Graduate Student in Computer Information Technology
 📍 Purdue University
-🧠 Focus: AI in Healthcare | LLMs | Biomedical NLP | Software Engineering
+🧠 Focus: AI in Healthcare | LLMs | Biomedical NLP  
+💻 Background: Software Engineering (Frontend – React, React Native)
 
 ---
 
 ## 🚀 About Me
 
-Software Engineer and MS in Technology student at Purdue University (4.0 GPA) with experience building scalable web and mobile applications using React, React Native, and REST APIs.
+Master's student at Purdue University with experience as a software engineer building scalable web and mobile applications using React, React Native, and REST APIs.
 
-Currently working as a Teaching Assistant while conducting research on large language models and biomedical concept normalization for healthcare data. My research has been accepted at IEEE Big Data 2025 and EACL 2026.
+Currently working as a Teaching Assistant while conducting research on large language models and biomedical concept normalization for healthcare data, accepted at IEEE Big Data 2025 and EACL 2026.
 
 ---
 
