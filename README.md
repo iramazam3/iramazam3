@@ -7,12 +7,11 @@ Portfolio: https://iramazam-portfolio.vercel.app/
 ## Interests
 
 - Software Engineering
-- Full-Stack Development
-- Data Analysis
+- Web Development
 - Artificial Intelligence & Machine Learning
-- Healthcare AI
 - Large Language Models (LLMs)
 - Biomedical NLP
+- Data Analysis
 
 ## Professional Experience
 
@@ -20,7 +19,7 @@ Portfolio: https://iramazam-portfolio.vercel.app/
 
 Developed React Native mobile application features, optimized user experiences, and supported a loyalty and online ordering platform serving 50+ cloud kitchen locations.
 
-### Software Engineer — Dastgyr Technologies
+### Software Engineer — Dastgyr
 
 Built scalable React, JavaScript, and Node.js web applications, integrated REST APIs, and supported enterprise workflows processing 1.5M+ orders across multiple admin portals.
 
@@ -36,6 +35,14 @@ Delivered lectures and labs in software development, mentored 200+ students, and
 
 ## Featured Projects
 
+### Business Intelligence Platform
+
+Full-stack SaaS business intelligence platform to support data-driven decision making.
+
+### AI Fitness & Nutrition Assistant
+
+Multi-agent RAG system that generates personalized workout and nutrition recommendations.
+
 ### Biomedical Concept Normalization
 
 LLM-powered biomedical concept normalization using SapBERT, FAISS, and UMLS.
@@ -43,10 +50,6 @@ LLM-powered biomedical concept normalization using SapBERT, FAISS, and UMLS.
 ### LLM Batch Classification
 
 Batch-prompting framework for healthcare text classification using GPT and Gemini models.
-
-### AI Fitness & Nutrition Assistant
-
-Multi-agent RAG system that generates personalized workout and nutrition recommendations.
 
 ### ML Physical Therapy Optimization
 
